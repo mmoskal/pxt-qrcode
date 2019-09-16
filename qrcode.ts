@@ -15,6 +15,7 @@
 //
 //---------------------------------------------------------------------
 
+
 namespace qrcode {
   export function panic(msg: string): any {
     console.log(msg);

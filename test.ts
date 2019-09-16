@@ -20,5 +20,5 @@ namespace test {
         let sprite = sprites.create(img);
     }
 
-    run();
+   // run();
 }
