@@ -15,4 +15,5 @@ namespace qrcode {
         const img = qr.toImage(cellsize);
         return img;
     }
+
 }
