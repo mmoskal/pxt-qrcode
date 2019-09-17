@@ -16,3 +16,4 @@ namespace qrcode {
         return img;
     }
 }
+
